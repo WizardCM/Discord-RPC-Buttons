@@ -1,31 +1,28 @@
-<h1 align="center">Welcome to ss 👋</h1>
+<h1 align="center">Welcome to Discord RPC Buttons 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/ss" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/ss.svg">
+  <a href="https://www.npmjs.com/package/discord-rpc" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/1.svg">
   </a>
   <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
   <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
-  <a href="sss" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/ss/ss" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license//Discord-RPC-Buttons" />
   </a>
 </p>
 
 > sss
 
-### 🏠 [Homepage](sss)
+### 🏠 [Homepage](https://psyro.de/)
 
-### ✨ [Demo](sss)
 
 ## Prerequisites
 
 - npm >=5.5.0
-- node >=9.3.0
+- node >=12.x
 
 ## Install
 
@@ -36,25 +33,18 @@ npm install
 ## Usage
 
 ```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
+node rpc.js
 ```
 
 ## Author
 
-👤 **ss**
+👤 **Psyro**
 
 * Website: s
-* GitHub: [@ss](https://github.com/ss)
+* GitHub: [@Psyro](https://github.com/psyro770)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
