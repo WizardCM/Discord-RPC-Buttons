@@ -13,7 +13,7 @@
   </a>
 </p>
 
-> sss
+> This is a very simple Discord Rich Presence with buttons. Its easy to use!
 
 ### 🏠 [Homepage](https://psyro.de/)
 
