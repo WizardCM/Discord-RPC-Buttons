@@ -39,7 +39,7 @@ node rpc.js
 
 👤 **Psyro**
 
-* Website: s
+* Website: https://psyro.de/
 * GitHub: [@Psyro](https://github.com/psyro770)
 
 ## Show your support
