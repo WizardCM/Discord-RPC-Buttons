@@ -32,7 +32,7 @@ npm install
 ## Usage
 
 ```sh
-node rpc.js
+node index.js
 ```
 
 ## Author
