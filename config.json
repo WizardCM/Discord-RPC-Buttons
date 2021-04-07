@@ -1,0 +1,28 @@
+{
+    "clientId": "811560129023180801",
+    "rich_presence": {
+            "details": "If you can see this youre cool",
+            "state": "Discord Bot Developer",
+        "assets": {
+            "largeImageText": "https://psyro.de/",
+            "largeImageKey": "psyro",
+            "smallImageText": "https://zipwerk.de/",
+            "smallImageKey": "zipwerk"
+        },
+        "buttons": {
+            "primary": {
+                "buttonLabelText": "Home",
+                "buttonRedirectUrl": "https://psyro.de/"
+            },
+            "secondary": {
+                "buttonLabelText": "Zipwerk",
+                "buttonRedirectUrl": "https://zipwerk.psyro.de/"
+            }
+        },
+        "timestamps": {
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "useTimer": false
+        }
+    }
+}
